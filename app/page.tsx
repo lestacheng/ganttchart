@@ -1,4 +1,4 @@
-import GanttChart from '../components/GanttChart';
+import GanttChart from '@/components/GanttChart';
 
 export default function Home() {
   return (
@@ -30,4 +30,4 @@ export default function Home() {
       </div>
     </main>
   );
-}
+} 

@@ -19,4 +19,4 @@ export default function RootLayout({
       <body className={`${inter.className} h-full`}>{children}</body>
     </html>
   );
-}
+} 
